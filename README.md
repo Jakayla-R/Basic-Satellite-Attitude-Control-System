@@ -1,4 +1,4 @@
-# Basic-Satellite-Attitude-Control-System
+# Satellite Attitude Control System
 Objective:
 To understand the basics of satellite attitude control by modeling and simulating a simple control system using MATLAB/Simulink.
 
