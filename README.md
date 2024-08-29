@@ -1,6 +1,6 @@
 # Satellite Attitude Control System
 Objective:
-To understand the basics of satellite attitude control by modeling and simulating a simple control system using MATLAB/Simulink.
+To understand the basics of satellite attitude control by modeling and simulating a control system using MATLAB/Simulink.
 
 Workflow Steps:
 1. Basic System Modeling
@@ -20,7 +20,7 @@ Workflow Steps:
       Run the simulation to observe how the PID controller adjusts the satellite's orientation.
 4. Code Generation
 \
-  a. MATLAB Coder:
+  a. MATLAB Autocoder:
       Generate simple C code from the PID controller model using MATLAB Coder.
    \
   b. Review the Code:
