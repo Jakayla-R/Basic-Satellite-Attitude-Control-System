@@ -21,7 +21,7 @@ Workflow Steps:
 4. Code Generation
 \
   a. MATLAB Autocoder:
-      Generate simple C code from the PID controller model using MATLAB Coder.
+      Generate C code from the PID controller model using MATLAB Coder.
    \
   b. Review the Code:
       Look at the generated code to understand how the MATLAB/Simulink model translates into C.
