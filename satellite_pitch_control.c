@@ -8,8 +8,7 @@
  * Code generated for Simulink model 'satellite_pitch_control'.
  *
  * Model version                  : 1.7
- * Simulink Coder version         : 23.2 (R2023b) 01-Aug-2023
- * C/C++ source code generated on : Wed Aug 21 15:06:10 2024
+ * Simulink Coder version         : 23.2 (R2023b) 
  *
  * Target selection: ert.tlc
  * Embedded hardware selection: Intel->x86-64 (Windows64)
